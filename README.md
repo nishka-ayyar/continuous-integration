@@ -2,7 +2,7 @@
 
 *This is the first homework assignment for [Claremont McKenna's CSCI46: Data Structures](https://github.com/mikeizbicki/cmc-csci046) course.*
 
-Continuous Integration (CI) is a technique for proving that your code is correct.
+ Continuous Integration (CI) is a technique for proving that your code is correct.
 CI tools run your code's test cases automatically when you commit code to your repo,
 and let you know if anything is broken.
 
